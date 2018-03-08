@@ -1,15 +1,15 @@
-<firstname> <lastname>
+Marie Morin
 CSCI 305
 Spring 2018
 Lab Questions
 =======================
-1.
+1. val it = [4,2,5,2,6,10] : int list
 
-2.
+2. Function f adds one to each of the numbers passed in and saves it as an int set.
 
-3.
+3. This is simply saying that fun f takes a set and returns a set.
 
-4.
+4. This is saying that for each x that becomes xs, we add one before saving it as xs.
 
 5.
 
@@ -23,12 +23,24 @@ Lab Questions
 
 10.
 
-11.
+11. Because it's a "tell me what to do" language, the functions tend to be
+    smaller and less complex than some language like Java or Python.
 
-12.
+12. Personally, I think the lack of documentation on ML is pretty annoying. I
+    had a hard time finding resources and answers other than the class slides
+    and examples posted for the class, or lectures for classes that similarly
+    taught ML.
 
-13.
+13. I did not particularly-- though it was interesting to learn about declarative
+    languages, I didn't feel like I really got much out of this lab that I will
+    be using later on in my career. I didn't like the lack of documentation on the
+    language or the fact that it was next to impossible to find helpful resources.
 
-14.
+14. I spent about 8 or 10 hours on this lab. Most of it was learning syntax of ML,
+    which was frustrating, because it wasn't like I spent most of my time writing
+    code like I would with Java/Python. I spent my time trying to figure out how
+    to do simple things with this language.
 
-15.
+15. Because ML is a research language and I'm not anticipating any graduate
+    school in my future, I don't see my self using ML for much of anything,
+    personally.
