@@ -11,17 +11,21 @@ Lab Questions
 
 4. This is saying that for each x that becomes xs, we add one before saving it as xs.
 
-5.
+5. val quest5 = false : bool
 
-6.
+6. Tail recursion.
 
-7.
+7. val quest7 = Set ("it",Set ("was",Set #)) : string set
 
-8.
+8. Tail recursion is beneficial because you can run through your base cases and
+   special cases before ending up at recursion. This form of recursion is easier
+   to read and understand, in my opinion.
 
-9.
+9. Question 9: val it = () : unit
+   { and eggs green ham }
 
-10.
+10. Question 10: val it = () : unit
+    { and macaroni }
 
 11. Because it's a "tell me what to do" language, the functions tend to be
     smaller and less complex than some language like Java or Python.
